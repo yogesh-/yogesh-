@@ -1,4 +1,4 @@
-### Hi there 👋, I am Yogesh Gupta.
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Yogesh Gupta</h1>
 
 
 - 🔭 I’m currently learning MERN stack
