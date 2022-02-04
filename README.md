@@ -7,6 +7,8 @@
 - 💬 Ask me about anything frontend
 - 📫 How to reach me: Email - yogesh.gupta38@gmail.com
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yogesh-&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ## My skills 🚀
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
