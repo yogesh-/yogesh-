@@ -1,4 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="3px"> I'm Yogesh Gupta</h1>
+<!-- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="3px"> -->
+<h1 align="center">Hi  I'm Yogesh Gupta</h1>
 
 
 - 🔭 I’m currently learning MERN stack
