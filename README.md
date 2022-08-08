@@ -2,7 +2,7 @@
 <h1 align="center">Hi  I'm Yogesh Gupta</h1>
 
 
-- 🔭 I’m currently learning MERN stack
+- 🔭 I’m currently looking for a ReactJs frontend dev role
 - 👯 I’m looking to collaborate on fun frontend projects
 - 💬 Ask me about anything frontend
 - 📫 How to reach me: Email - yogesh.gupta38@gmail.com
