@@ -1,10 +1,7 @@
 <!-- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="3px"> -->
-<h1 align="center">Hi  I'm Yogesh Gupta</h1>
+<h1 align="center">Hi,  I'm Yogesh Gupta</h1>
 
-
-- 🔭 I’m currently looking for a ReactJs frontend dev role
-- 👯 I’m looking to collaborate on fun frontend projects
-- 💬 Ask me about anything frontend
+- 👯 I’m looking to collaborate on fun frontend projects based on React,Js,NextJs and TailwindCSS
 - 📫 How to reach me: Email - yogesh.gupta38@gmail.com
 
 
